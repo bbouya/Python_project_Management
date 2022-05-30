@@ -1,0 +1,3 @@
+# Contact Management System in Python : 
+
+Contact Management System project is written in Python, the project file contains a python script this is a simple GUI based project which is very easy to understand and use, Talking about the system, it contains all the required functions which include adding, viewing about the system, it contains all the required functions which include adding, viewing, deleting and updating contact lists, while adding the contact details.
